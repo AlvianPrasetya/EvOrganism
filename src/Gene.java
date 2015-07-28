@@ -3,6 +3,8 @@ public class Gene {
 	private int amount; // denotes the value carried by this gene (1 ~ 3)
 	private int dominance; // denotes whether this gene is dominant or not (1 or 0)
 	
+	// constructors
+	
 	public Gene(){
 	}
 	
