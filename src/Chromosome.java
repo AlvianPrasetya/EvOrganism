@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Chromosome {
 	private int capacity; // denotes the number of genes that can be contained
-	private Gene[] gene; // the array of genes contained within this chromosome
+	private Gene[] gene; // the array of genes contained
 	
 	// constructors
 	
